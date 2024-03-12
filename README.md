@@ -1,7 +1,18 @@
-### Hi there 👋
+### Olá 👋
+
+###  **Me chamo Vinícius**
+
+  🌱 - Atualmente estou cursando Ciência da Computação;
+
+  🌱 - Estou começando a aprender Java.
+  
+  ⚡ - Tenho conhecimento básico em hardware e software;
+  
+  
+
+  📫 Você pode me contactar pelo e-mail: vinic.goncalves03@gmail.com
 
 <!--
-**ViniciusAndreGoncalves/ViniciusAndreGoncalves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
