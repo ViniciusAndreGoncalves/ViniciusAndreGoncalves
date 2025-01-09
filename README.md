@@ -10,7 +10,7 @@
   
   
 
-  📫 Você pode me contactar pelo e-mail: vinic.goncalves03@gmail.com
+  📫 Você pode me contactar pelo e-mail: vinicius.avg@aluno.ifsc.edu.br
 
 <!--
 
