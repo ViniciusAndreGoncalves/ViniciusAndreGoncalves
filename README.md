@@ -18,7 +18,7 @@
 
 ###
 
-<h2 align="center">ABOUT ME - ABOUT ME - ABOUT ME - ABOUT ME - ABOUT ME - ABOUT ME - ABOUT ME</h2>
+<h2 align="center">ABOUT ME - ABOUT ME - ABOUT ME - ABOUT ME - ABOUT ME - ABOUT ME</h2>
 
 ###
 
@@ -26,7 +26,7 @@
 
 ###
 
-<h2 align="center">ABOUT ME - ABOUT ME - ABOUT ME - ABOUT ME - ABOUT ME - ABOUT ME - ABOUT ME</h2>
+<h2 align="center">ABOUT ME - ABOUT ME - ABOUT ME - ABOUT ME - ABOUT ME - ABOUT ME</h2>
 
 ###
 
